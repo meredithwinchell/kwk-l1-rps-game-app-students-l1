@@ -1,10 +1,10 @@
 class RPSGame
-   def initialize(rock, paper, scissors)
-     @rock= rock
-     @paper= paper
-     @scissors= scissors
-
+   def initialize
+     RPSGame.new("rock")
+     RPSGame.new("papers")
+     RPSGame.new("scissors")
    end
+
 
 
   # Write your code here!
