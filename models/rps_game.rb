@@ -1,5 +1,6 @@
 class RPSGame
-  RPSGame.new("rock")
+
+
 
   # Write your code here!
 
