@@ -5,7 +5,7 @@ class RPSGame
      RPSGame.new("scissors")
    end
 
-   
+
 
 
 
