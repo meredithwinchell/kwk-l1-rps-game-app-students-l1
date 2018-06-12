@@ -1,5 +1,8 @@
 class RPSGame
-
+   def initialize
+     @rock= rock
+     
+   end
 
 
   # Write your code here!
