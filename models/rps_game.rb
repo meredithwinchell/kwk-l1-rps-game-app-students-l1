@@ -3,13 +3,13 @@ class RPSGame
      @rock= rock
      @paper= paper
      @scissors= scissors
-     
+
    end
-   def 
+   def
      RPSGame.new("rock")
      RPSGame.new("papers")
      RPSGame.new("scissors")
-  
+
 
 
 
