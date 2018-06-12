@@ -1,9 +1,9 @@
 class RPSGame
-   def initialize[
+   def initialize
      RPSGame.new("rock")
      RPSGame.new("papers")
      RPSGame.new("scissors")
-   ]
+   
    end
 
 
