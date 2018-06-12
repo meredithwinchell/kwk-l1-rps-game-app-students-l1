@@ -1,7 +1,7 @@
 class RPSGame
    def initialize
-     @rock= rock
-     
+     @rock= (rock, paper, scissors)
+
    end
 
 
